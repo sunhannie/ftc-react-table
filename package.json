@@ -1,0 +1,23 @@
+{
+  "name": "ftc-react-table",
+  "version": "1.0.0",
+  "description": "it is a table component  using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunhannie/ftc-react-table.git"
+  },
+  "keywords": [
+    "table",
+    "react"
+  ],
+  "author": "hehuiyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunhannie/ftc-react-table/issues"
+  },
+  "homepage": "https://github.com/sunhannie/ftc-react-table#readme"
+}
